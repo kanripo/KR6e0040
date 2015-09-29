@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:11.508545
+#+DATE: 2015-09-28 22:56:15.127718
 #+TITLE: 度世品經
 #+PROPERTY: CBETA_ID T10n0292
 #+PROPERTY: ID KR6e0040
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 292
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6e0040_T_000-0617b>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0040_T_003-0630c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
-
- 《度世品經》卷第三¶
+《度世品經》卷第三¶
 ¶
 西晉月氏三藏竺法護譯¶
 
@@ -127,7 +126,7 @@
 
 「又，諸菩薩常加愍哀眾生之類，斫頭、斷¶
 其手脚、割其耳鼻、挑其兩眼、罵詈毀辱、瓦石¶
-打擲、扠蹹、㨑搣、唾濺、調戲皆能忍之，不起¶
+打擲、扠蹹、[打-丁+(稯-禾)]搣、唾濺、調戲皆能忍之，不起¶
 瞋恚、亦不懷恨，顏色不變。無央數劫修菩薩¶
 行，未曾發心違捨一切。
 
