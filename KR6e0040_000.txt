@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 度世品經
+#+DATE: 2015-09-28 22:56:11.889166
+#+PROPERTY: JUAN 0
