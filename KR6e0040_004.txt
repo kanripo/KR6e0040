@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:11.542616
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:42
 #+TITLE: 度世品經
 #+PROPERTY: CBETA_ID T10n0292
 #+PROPERTY: ID KR6e0040
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 292
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0040_T_000-0617b>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0040_T_004-0637a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《度世品經》卷第四¶
+《度世品經》卷第四¶
 ¶
 西晉月氏三藏竺法護譯¶
 
