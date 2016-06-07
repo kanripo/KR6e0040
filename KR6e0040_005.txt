@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:11.573004
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:42
 #+TITLE: 度世品經
 #+PROPERTY: CBETA_ID T10n0292
 #+PROPERTY: ID KR6e0040
